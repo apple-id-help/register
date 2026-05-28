@@ -4,7 +4,7 @@
 
 ## 🌐 网站在线预览
 如果你需要查看精美的图文教程网页，请直接访问：
-👉 **[点击进入：海外/美区 Apple ID 注册指南在线版](https://yourusername.github.io/apple-id-help/register/)** *(注：请将链接中的 `yourusername` 替换为你的 GitHub 真实用户名)*
+👉 **[点击进入：海外/美区 Apple ID 注册指南在线版](https://yourusername.github.io/apple/register/)** *(注：请将链接中的 `yourusername` 替换为你的 GitHub 真实用户名)*
 
 ---
 
